@@ -5,3 +5,4 @@ Stage[[:space:]]1.ipynb filter=lfs diff=lfs merge=lfs -text
 XGBoost.ipynb filter=lfs diff=lfs merge=lfs -text
 cleaned_data.csv filter=lfs diff=lfs merge=lfs -text
 Stage[[:space:]]1_1.ipynb filter=lfs diff=lfs merge=lfs -text
+Stage[[:space:]]2.ipynb filter=lfs diff=lfs merge=lfs -text
