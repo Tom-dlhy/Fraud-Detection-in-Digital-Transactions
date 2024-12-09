@@ -9,7 +9,7 @@ In today's digital world, fraud detection is a critical challenge for financial 
 ## 🛠️ Technologies Used
 
 - **Programming Languages**: Python  
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Optuna, Matplotlib, Seaborn  
+- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Optuna, Matplotlib, Seaborn, Sweetviz
 - **Machine Learning Models**: Logistic Regression, K-Nearest Neighbors (KNN), Random Forest, XGBoost  
 - **Data Handling**: SMOTE for imbalanced data, Z-score for outlier removal, Standardization for feature scaling  
 - **Optimization**: Optuna for hyperparameter tuning  
